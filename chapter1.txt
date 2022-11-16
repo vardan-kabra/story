@@ -1,3 +1,4 @@
+AN ALIEN LANDED. And kicked everyone.
 
 oh common! what happened to all the text?app.post("/failure",function(req, res){
     res.redirect("/");
